@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-capgemini-workshop02242023
+- admin-user: anilraj-goswami-admin
+- manager-user: anilraj-goswami
